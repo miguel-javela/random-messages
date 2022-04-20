@@ -1,5 +1,5 @@
 const messages = [
-    "Miguel","Ana","Nicolay","Laura","Diego"
+    "Miguel","Ana","Nicolay","Laura","Diego","carolina","paulina"
 ]
 
 const randomMsg = () => {

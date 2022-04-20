@@ -1,5 +1,5 @@
 {
-  "name": "random-messages",
+  "name": "random-messagesjav",
   "version": "1.0.0",
   "description": "random de messages",
   "main": "src/index.js",
@@ -18,7 +18,7 @@
   "author": "miguel javela <migueljavela2014@gmail.com>",
   "license": "MIT",
   "bin":{
-    "random-msg" : "./bin/global.js"
+    "random-msgjavela1" : "./bin/global.js"
   },
   "preferGlobal": true ,
   "bugs": {
